@@ -2,7 +2,7 @@
 
 What are South Texas teens really carrying with them? During my remote internship with the Mid Rio Grande Border Area Health Education Center (MRGB AHEC), I analyzed 266 anonymous responses collected at youth mental health outreach events in Laredo, Texas, and turned them into an interactive data story.
 
-**[View the live page](file:///Users/rosarylamb/Downloads/Check-In_%20Youth%20Mental%20Health%20Survey.html)**
+**[View the live page](https://claude.ai/artifact/DmWtm9tnSRnDfghhH6wW8T)**
 
 > **Content note:** this project covers stress, grief and self-worth. Concerns appear only as counts, never as quotes. If you or someone you know is struggling, call or text **988**, the Suicide & Crisis Lifeline.
 
